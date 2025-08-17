@@ -2,6 +2,14 @@
 
 # π 300CIP013-Q1
 
+## 👥 Integrantes
+- **Benjamin Ortiz Morales**
+- **Marco Antonio Riascos**
+- **Julian Galvis Tocora**
+- **Rui Yu Lei Wu**
+
+---
+
 Este proyecto implementa tres métodos diferentes para aproximar el valor de π usando C++:
 
 1. **taylorpi.cpp** – Serie de Taylor (Método de Leibniz).
