@@ -1,3 +1,8 @@
+Benjamin Ortiz Morales
+Marco Antonio Riascos
+Julian Galvis Tocora
+Rui Yu Lei Wu
+
 # π 300CIP013-Q1
 
 Este proyecto implementa tres métodos diferentes para aproximar el valor de π usando C++:
