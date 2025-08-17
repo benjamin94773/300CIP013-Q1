@@ -22,3 +22,16 @@ g++ montepi.cpp -o montepi
 
 # Compilar carlopi (usa pthreads)
 g++ carlopi.cpp -o carlopi -lpthread
+
+# Ejecutar Taylor con N iteraciones
+./taylorpi N
+
+# Ejecutar Monte Carlo con N puntos
+./montepi N
+
+# Ejecutar Carlo con N rectángulos y T hilos
+./carlopi N T
+
+./taylorpi 10000000
+./montepi 10000000
+./carlopi 10000000 4
