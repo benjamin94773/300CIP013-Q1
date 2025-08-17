@@ -38,5 +38,5 @@ g++ carlopi.cpp -o carlopi -lpthread
 ```bash
 ./taylorpi 10000000
 ./montepi 10000000
-./carlopi 10000000 4
+./carlopi 10000000 10
 ```
