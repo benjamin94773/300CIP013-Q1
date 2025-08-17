@@ -1,4 +1,4 @@
-# π Approximation Project
+# π 300CIP013-Q1
 
 Este proyecto implementa tres métodos diferentes para aproximar el valor de π usando C++:
 
