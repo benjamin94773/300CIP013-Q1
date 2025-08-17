@@ -22,7 +22,9 @@ g++ montepi.cpp -o montepi
 
 # Compilar carlopi (usa pthreads)
 g++ carlopi.cpp -o carlopi -lpthread
-
+```
+## Ejecución
+```bash
 # Ejecutar Taylor con N iteraciones
 ./taylorpi N
 
@@ -31,7 +33,10 @@ g++ carlopi.cpp -o carlopi -lpthread
 
 # Ejecutar Carlo con N rectángulos y T hilos
 ./carlopi N T
-
+```
+## Ejemplos
+```bash
 ./taylorpi 10000000
 ./montepi 10000000
 ./carlopi 10000000 4
+```
