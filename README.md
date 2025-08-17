@@ -1,10 +1,10 @@
-#Benjamin Ortiz Morales
+# Benjamin Ortiz Morales
 
-#Marco Antonio Riascos
+# Marco Antonio Riascos
 
-#Julian Galvis Tocora
+# Julian Galvis Tocora
 
-#Rui Yu Lei Wu
+# Rui Yu Lei Wu
 
 
 # π 300CIP013-Q1
