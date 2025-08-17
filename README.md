@@ -1,7 +1,7 @@
-Benjamin Ortiz Morales
-Marco Antonio Riascos
-Julian Galvis Tocora
-Rui Yu Lei Wu
+#Benjamin Ortiz Morales
+#Marco Antonio Riascos
+#Julian Galvis Tocora
+#Rui Yu Lei Wu
 
 # π 300CIP013-Q1
 
